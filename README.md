@@ -1,6 +1,9 @@
 Failing react test for #15691
 ================================
 
+[![Actions Status](https://github.com/ivarprudnikov/test-react-enzyme-body-null/workflows/Node%20CI/badge.svg)](https://github.com/ivarprudnikov/test-react-enzyme-body-null/actions)
+
+
 ## Prerequisites
 
 - Node v12.5 as in [.nvmrc](./.nvmrc), run `nvm use` otherwise
